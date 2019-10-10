@@ -1,15 +1,15 @@
-# 빅스비 캡슐 챌린지 시즌2 모각코 튜토리얼
+# :sparkles: 빅스비 캡슐 챌린지 시즌2 모각코 튜토리얼
 > XXIT에서 운영하는 모각코를 위한 가이드<br>
 > 빅스비 캡슐 챌린지 [안내 사이트]
 
-## 접수하기
+## :pushpin: 접수하기
 
 1. [Bixby Developer Center]에서 `이메일`로 회원가입합니다.
 ![](Picture/1.PNG)
 2. [참가 신청 사이트]에서 이벤트 등록을 합니다. 이메일은 1번에서 `가입한 이메일`로 기입합니다.
 ![](Picture/2.PNG)
 
-## 캡슐 생성
+## :rocket: 캡슐 생성
 
 1. [Bixby Developer Center]에서 자신의 OS에 맞는 `Bixby Developer Studio`를 설치합니다.
 ![](Picture/3.PNG)
