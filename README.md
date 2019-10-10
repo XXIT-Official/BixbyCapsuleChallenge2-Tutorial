@@ -27,6 +27,13 @@
 > - 해당 문서는 간단한 사용법을 설명하기 위함으로 세세한 기능들은 공식 홈페이지를 참고하기 바랍니다.
 > - 추천 자료 : [Bixby 서비스 쉽게 개발해보기], [빅스비 캡슐 개발 Quick Start Guide], [SW Expert Academy 온라인 코스]
 
+## Author
+* **MiryangJung** - [@MiryangJung](https://github.com/MiryangJung)
+
+## Copyright and License
+
+Copyright 2019 XXIT. Code released under the MIT license.
+
 <!-- Link -->
 [안내 사이트]: https://bixby.developer.samsung.com/newsroom/ko-kr/%EA%B3%B5%EC%A7%80-%E2%80%98%EB%B9%85%EC%8A%A4%EB%B9%84-%EC%BA%A1%EC%8A%90-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C2-%EC%B0%B8%EA%B0%80-%EC%8B%A0%EC%B2%AD-%EC%A0%91%EC%88%98-%EC%8B%9C%EC%9E%91-%EB%8B%A4%EC%8B%9C-%EB%8F%84%EC%A0%84%ED%95%98%EC%84%B8%EC%9A%94
 [Bixby Developer Center]: https://bixbydevelopers.com/
