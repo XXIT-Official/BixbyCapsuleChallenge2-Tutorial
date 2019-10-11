@@ -25,7 +25,10 @@
 
 
 > - 해당 문서는 간단한 사용법을 설명하기 위함으로 세세한 기능들은 공식 홈페이지를 참고하기 바랍니다.
-> - 추천 자료 : [Bixby 서비스 쉽게 개발해보기], [빅스비 캡슐 개발 Quick Start Guide], [SW Expert Academy 온라인 코스]
+> - 추천 자료
+>   - Bixby 서비스 쉽게 개발해보기]
+>   - [빅스비 캡슐 개발 Quick Start Guide]
+>   - [SW Expert Academy 온라인 코스]
 
 ## Author
 * **MiryangJung** - [@MiryangJung](https://github.com/MiryangJung)
