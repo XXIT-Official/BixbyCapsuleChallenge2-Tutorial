@@ -11,16 +11,16 @@
 
 ## :rocket: 캡슐 생성
 
-1. [Bixby Developer Center]에서 자신의 OS에 맞는 `Bixby Developer Studio`를 설치합니다.
+1. [Bixby Developer Center]에서 자신의 OS에 맞는 `Bixby Developer Studio`를 설치합니다.<br>
 ![](Picture/3.PNG)
 2. 간단한 예제 코드를 실행해보기 위해 [사칙연산 캡슐]을 로컬에 클론합니다.
-3. `Bixby Developer Studio`에서 *Open Existing Capsule*을 클릭해 클론한 [사칙연산 캡슐] 폴더를 오픈합니다.
+3. `Bixby Developer Studio`에서 *Open Existing Capsule*을 클릭해 클론한 [사칙연산 캡슐] 폴더를 오픈합니다.<br>
 ![](Picture/4.PNG)
-4. 왼쪽 사이드바에서 파일들을 확인할 수 있습니다.
+4. 왼쪽 사이드바에서 파일들을 확인할 수 있습니다.<br>
 ![](Picture/5.PNG)
-5. 폰 모양의 아이콘을 클릭하거나 **Ctrl+7**(window)를 통해 `Simulator`를 실행합니다.
+5. 폰 모양의 아이콘을 클릭하거나 **Ctrl+7**(window)를 통해 `Simulator`를 실행합니다.<br>
 ![](Picture/6.PNG)
-6. `Simulator`에서 다양한 테스트를 할 수 있습니다.
+6. `Simulator`에서 다양한 테스트를 할 수 있습니다.<br>
 ![](Picture/7.gif)
 
 
